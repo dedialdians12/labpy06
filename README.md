@@ -22,7 +22,7 @@ Membuat tampilan program sederhana dengan menyertakan beberapa fungsi yg menampi
 
 Selanjutnya membuat kondisi perulangan menggunakan while True. Artinya ketika kita menginputkan data berdasarkan syntax maka jawabannya benar jika tidak maka akan break. Untuk menginisialkan penambahan menu pilihan Tambah, Lihat, Ubah, Hapus, Cari, dan Keluar menggunakan source code sebagai berikut :
 
-```
+```py
 while True:
     t = input("\n(T)ambah, (L)ihat, (U)bah, (H)apus, (C)ari, (K)eluar : ")
 ```
